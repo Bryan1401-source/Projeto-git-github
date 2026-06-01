@@ -1,0 +1,22 @@
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.segunda-pagina {
+    background-color: #f0f0f0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.segunda-pagina h1 {
+    color: #333;
+    text-align: center;
+}
+
+.segunda-pagina p {
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}

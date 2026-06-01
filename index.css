@@ -1,0 +1,23 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.index {
+    background-color: #e0e0e0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.index h1 {
+    color: #333;
+    text-align: center;
+}
+
+.index p {
+    color: #666;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
